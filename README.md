@@ -1,12 +1,13 @@
-# Olá! Eu sou Tiago Madeira Silva 👋
 
-💻 **Desenvolvedor de Software | Análise e Desenvolvimento de Sistemas**
+# Hello! I'm Tiago Madeira Silva 👋
 
-Sou formado em Análise e Desenvolvimento de Sistemas e tenho interesse em desenvolvimento de software, tecnologia e inovação.
+💻 **Software Developer | Systems Analysis and Development**
 
-Gosto de aprender novas tecnologias, desenvolver projetos e transformar ideias em soluções práticas. Estou sempre buscando aprimorar minhas habilidades e evoluir profissionalmente na área de tecnologia.
+I hold a degree in Systems Analysis and Development and have a strong interest in software development, technology, and innovation.
 
-## 🚀 Tecnologias e ferramentas
+I enjoy learning new technologies, building projects, and turning ideas into practical solutions. I'm always looking to improve my skills, expand my knowledge, and grow professionally in the technology field.
+
+## 🚀 Technologies and Tools
 
 <div style="display: inline_block"><br>
   <img align="center" alt="CSharp" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
@@ -33,7 +34,7 @@ Gosto de aprender novas tecnologias, desenvolver projetos e transformar ideias e
 
 ##
 
-## 📫 Entre em contato
+## 📫 Connect with Me
 
 <div>
   <a href="mailto:tiagomadeira421@gmail.com">
@@ -46,15 +47,16 @@ Gosto de aprender novas tecnologias, desenvolver projetos e transformar ideias e
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
   <a href="https://www.instagram.com/tiagomdrs._" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-</a>
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
 </div>
 
 ---
+
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
+  <img align="center" alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
 </picture>
 
-⭐ Obrigado pela visita! Fique à vontade para conhecer meus repositórios e projetos.   
+⭐ Thanks for visiting! Feel free to explore my repositories and projects.
